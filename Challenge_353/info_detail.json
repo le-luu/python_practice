@@ -1,0 +1,46 @@
+{
+  "title": "Information Detail",
+  "name": "Le Luu",
+  "role": "Data Analytics Consultant",
+  "company": "The Information Lab US",
+  "skills": [
+    "Python",
+    "SQL",
+    "Tableau",
+    "Alteryx",
+    "R"
+  ],
+  "blog_post": [
+    {
+      "Tableau": [
+        "Exploring VizQL Data Service",
+        "Extracting Data from API and Parse jSON in Tableau Desktop (Part 1,2)",
+        "Extracting Words from Sentences in Tableau Prep Builder",
+        "Translating Text Fields in Any Languages in Tableau",
+        "3 Ways to Apply Python Script in Tableau Desktop"
+      ],
+      "tool": "Tableau",
+      "released_year": 2024
+    },
+    {
+      "Alteryx": [
+        "Quickly Flatten JSON Objects in Alteryx 2024.2",
+        "Build a Batch Macro to Translate Text Data",
+        "Analytics App in Alteryx (Part 1,2)",
+        "Extracting Data from an Image File",
+        "Extracting Data from PDF File"
+      ],
+      "tool": "Alteryx Designer",
+      "released_year": 2024
+    },
+    {
+      "SQL": [
+        "Performance Optimization in SQL (Part 1,2)",
+        "Calculations in SQL and Tableau (Part 1,2)",
+        "SQL Join"
+      ],
+      "tool": "Snowflake",
+      "released_year": 2024
+    }
+  ]
+}
